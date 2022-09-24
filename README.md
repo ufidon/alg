@@ -35,6 +35,7 @@ In this course, a Windows laptop is required, all needed software will be instal
   * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
     * [source code](https://github.com/kevin-wayne/algs4)
   * [Data Structures and Algorithm Analysis in C++, 4th Edition](https://www.pearson.com/us/higher-education/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-C-4th-Edition/PGM148299.html)
+    * [author website](http://users.cs.fiu.edu/~weiss/)
   * [Data Structures and Algorithm Analysis in Java, 3rd Edition](https://www.pearson.com/us/higher-education/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-Java-3rd-Edition/PGM324443.html)
   * [Introduction to Python Programming and Data Structures](https://www.pearson.com/us/higher-education/program/Liang-Revel-for-Introduction-to-Python-Programming-and-Data-Structures-Access-Card/PGM2473207.html)
 * [Visualize algorithms](https://visualgo.net/en)
