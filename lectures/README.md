@@ -16,6 +16,11 @@ Tentative topics include:
 * Number-Theoretic Algorithms
 * Introduction to Parallel Algorithms
 
+## [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
+* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [A open-source algorithm library on Github](https://the-algorithms.com/)
+* [Algorithms visualizer](https://algorithm-visualizer.org/)
+* [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 ## Online math resources and tools
 * [Proof Wiki](https://proofwiki.org/)
   * [Interactive Mathematics Miscellany and Puzzles](https://www.cut-the-knot.org/)
